@@ -1,0 +1,52 @@
+/* Header */
+	.htopbg { width: 100%; height: 43px; background: #1d211d; }
+	.hmail { color: #fff; float: left; margin-right: 20px;margin-top: 6px; }
+	.hnmbr { color: #fff;margin-top: 6px; }
+
+/* icons */
+	.soc-link{float:right; padding: 3px 0;}
+	.soc-link li{list-style-type:none; display: inline-block;}
+	.soc-link li a i{background-color:#00adee; color:#fff; font-size: 20px; height: 30px; width: 40px;line-height:30px;border: 1px solid #00adee;
+    vertical-align: middle; text-align: center; border-radius: 20px;}
+	.soc-link li a i:hover{background-color:red; color:#ddd; border:20px;}
+
+/* logo,tittle_name,search */
+	.htop { width: 100%; height: 100px; background: white; }
+	.hheader h2{margin-top: 10px;margin-left: 350px 5%;}
+	.htopp{float:right; padding: 4px 0;}
+	.htopp li{list-style-type:none; display: inline-block;}
+	.htopp li a i{background-color:#00adee; color:#fff;font-size: 20px; height: 30px; width: 40px;line-height:30px;border: 1px solid #00adee ;vertical-align: middle; text-align: center; border-radius: 20px;}
+	
+/* menu_home */
+	.htopnav { width: 100%; height: 40px; background: blue; list-style: none; position: slide;}
+	.htopnav li a{ margin-right: 30px; float: left; text-align: left; margin-top: 8px; color: #ffffff; margin-left: 40px;}
+	.htopnav li a:hover{ background-color: red; color: white; text-decoration: none; }
+
+/* image,title_name,comment */
+	.silde img{ width: 100%; height: 400px; background-image: url(image/03.jpg);}
+	.title h2{ margin-top: 40px; margin-left: 260px; }
+	.comment p{ margin-left: 286px; margin-top: 5px;}
+
+/* footer 1_comment */	
+	.tit2 h1{ color:#fff;margin-top: 100px; margin-left: 400px; }
+	.com2 h4{color:#fff;margin-left: -270px; margin-top: 150px; }
+
+/* 4 images */
+	.image1 img{ height: 367px; width: 500px; margin-left: 69px; }
+	.image2 img{ height: 129px; width: 218px; float: left; margin-left: 10px; }
+	.image3 img{ height: 129px; width: 218px; margin-left: 10px; }
+	.image4 img{ height: 228px; width: 446px; margin-left: 10px; margin-top: 10px;}
+
+/* big image */
+	.hbotadd { width: 100%; height: 400px; background: white; margin-top: 50px; }
+	.add img{ height: 346px; width: 1024px; margin-top: 25px; margin-left: 36px; }
+
+/* footer 1 */
+	.hbot { width: 100%; background:#33cccc; height: 500px; float:right; padding: 10px 0; }
+	.hbot li{list-style-type:none; display: inline-block;}
+	.hbot li a i{background-color:#00adee; color:#fff; font-size: 20px; height: 40px; width: 40px;line-height:40px;border: 1px solid #00adee;
+    vertical-align: middle; text-align: center; border-radius: 20px;}
+	.hbot li a i:hover{background-color:red; color:#ddd; border:20px;	}
+
+/* footer 2 */
+	.footer { background:#000080; color: #fff;text-align: center;  width: 100%;padding: 15px 0; margin-top: 250px;}
